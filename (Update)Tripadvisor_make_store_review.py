@@ -115,7 +115,7 @@ driver = webdriver.Chrome("/home/jay/work_itc_train/chromedriver_linux64/chromed
 '''
 ####
 
-access_url_index = 382
+access_url_index = 0
 last_review_id = 0
 
 reviews_list = []
